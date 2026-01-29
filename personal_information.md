@@ -14,5 +14,5 @@ Professional Email: rampsia08@vt.edu
 
 Affiliation: Virginia Tech
 
-GitHub: \[https://github.com/rampsia08](https://github.com/rampsia08)
+GitHub: https://github.com/rampsia08
 
