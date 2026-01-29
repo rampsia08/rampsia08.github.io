@@ -7,6 +7,6 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I’m Sia Rampuria. 
+Hi, I’m Sia Rampuria.
 
 I’m a Computer Engineering student interested in embedded systems and cybersecurity. This site includes my background, projects, and contact information.
