@@ -8,9 +8,9 @@ permalink: /personalinfo/
 
 
 
-\*\*Name:\*\* Sia Rampuria
+Name: Sia Rampuria
 
-\*\*Email:\*\* rampsia08@vt.edu
+Email: rampsia08@vt.edu
 
-\*\*GitHub:\*\* \[https://github.com/rampsia08](https://github.com/rampsia08)
+GitHub: \[https://github.com/rampsia08](https://github.com/rampsia08)
 
